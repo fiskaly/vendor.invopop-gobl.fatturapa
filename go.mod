@@ -40,3 +40,5 @@ require (
 )
 
 // replace github.com/invopop/gobl => ../gobl
+
+replace github.com/invopop/gobl => github.com/fiskaly/vendor.invopop-gobl v0.306.1
